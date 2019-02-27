@@ -1,4 +1,0 @@
-{
-  "Tests/test_site_to_scrape.py": true,
-  "Tests/test_site_to_scrape.py::TestSiteToScrape::()::test_repr": true
-}
